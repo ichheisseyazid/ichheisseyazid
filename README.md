@@ -19,8 +19,8 @@ I love building useful tools, writing clean code, and having fun while I’m at 
 
 ### 🧰 Tech Stack
 
-- **Languages**: Python, JavaScript, PHP, HTML/CSS
-- **Frameworks & Tools**: Flask, TailwindCSS, React, Firebase, Git
+- **Languages**: Python, JavaScript
+- **Frameworks & Tools**: Flask, React, Firebase, Git
 - **ML/AI**: PyTorch, scikit-learn, deep learning, speaker recognition
 - **Bots**: Telegram Bot API, Discord.js, WhatsApp Business
 
@@ -28,8 +28,8 @@ I love building useful tools, writing clean code, and having fun while I’m at 
 
 ### 📍 Based In
 
-**Béchar, Algeria** – A city of warmth, sand, and strong tea.  
-Yes, we do have internet. We don't live in tents :)
+**From Béchar, Algeria** – A city of warmth, sand, and strong tea. Yes, we do have internet. We don't live in tents :)
+📍 Lives in Algiers
 
 <img src="https://images.steamusercontent.com/ugc/2067771513385219345/55EF861B056DEE5846C2158057CA7B212554DCCC/" width="200">
 
